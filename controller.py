@@ -112,6 +112,7 @@ class Controller(QMainWindow, Ui_MainWindow):
     def finish_ordering(self):
         """Clears all data of previous order and goes to main menu"""
 
+        self.receipt_label.clear()
         self.cookie_entry.clear()
         self.sandwich_entry.clear()
         self.water_entry.clear()
