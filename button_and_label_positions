@@ -1,0 +1,7 @@
+This is strictly to keep track of positions when I have to make different screens
+
+main_menu_label (It says "Keaghon's Diner") Coord: (200,10)
+menu_button Coord: (95,210)
+receipt_button Coord: (325,210)
+quit_button Coord: (555,210)
+
